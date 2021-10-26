@@ -1,3 +1,2 @@
-static/* linguist-vendored
-TwitchPlays.py/static/* linguist-vendored
-TwitchPlays.py/templates/* linguist-vendored
+* linguist-vendored
+*.python linguist-vendored=true
