@@ -1,5 +1,5 @@
 # Twitch-Plays
-Just the code in pyhton to Twitch Plays, based on a code I've find years ago on google.
+Just a code in pyhton for Twitch Plays, based on a code I've find years ago on google.
 
 You can change everything you can, as I do.
 
